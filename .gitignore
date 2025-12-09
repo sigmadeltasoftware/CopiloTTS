@@ -1,0 +1,49 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# IDE
+.idea/
+*.iml
+.DS_Store
+
+# Kotlin
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Local configuration
+local.properties
+*.local
+
+# Kotlin Multiplatform
+kotlin-js-store/
+.kotlin/
+
+# iOS
+iosApp/iosApp.xcodeproj/project.xcworkspace/
+iosApp/iosApp.xcodeproj/xcuserdata/
+iosApp/Pods/
+*.xcuserstate
+DerivedData/
+
+# Android
+*.apk
+*.aab
+*.ap_
+*.dex
+.cxx/
+
+# Generated files
+*.hprof
+
+# Secrets
+*.keystore
+*.jks
+signing.properties
