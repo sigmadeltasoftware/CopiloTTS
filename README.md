@@ -19,6 +19,10 @@ A Kotlin Multiplatform Text-to-Speech SDK with support for native platform engin
   <strong>As used in <a href="https://drivista.app">Drivista</a></strong> - the ultimate route planning and navigation app for driving enthusiasts.
 </p>
 
+# Demo
+
+https://github.com/user-attachments/assets/ab566f24-4248-484c-86a2-e9557a130f2f
+
 ## Installation
 
 Add the dependency to your `build.gradle.kts`:
