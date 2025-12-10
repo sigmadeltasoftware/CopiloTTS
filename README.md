@@ -29,9 +29,20 @@ Add the dependency to your `build.gradle.kts`:
 
 ```kotlin
 dependencies {
-    implementation("app.drivista:copilotts:1.0.0")
+    implementation("app.drivista:copilotts:1.0.0-2.2.20")
 }
 ```
+
+The version format is `{library-version}-{kotlin-version}`. Choose the artifact that matches your project's Kotlin version.
+
+| CopiloTTS Version |
+|-------------------|
+| 1.0.0             |
+
+| Supported Kotlin Versions |
+|---------------------------|
+| 2.1.20                    |
+| 2.2.20                    |
 
 ## Quick Start
 
